@@ -264,4 +264,4 @@ Se usa `fs.appendFile()` para no bloquear el event loop y acumular el historial 
 
 ## 👤 Autor
 
-Proyecto desarrollado para el programa JavaScript — Módulos 6, 7 y 8.# Proyecto-Modulo-6-7-8
+Proyecto desarrollado por Paula Albornoz para el programa JavaScript — Módulos 6, 7 y 8.
